@@ -1,0 +1,255 @@
+Classifier Results from 1-150,150-400,400+
+Nearest Neighbors: Accuracy Score: 0.8868421052631579
+Nearest Neighbors: Precession Score: 0.5287872479628858
+Nearest Neighbors: Recall Score: 0.39235642525116204
+Nearest Neighbors: F1 Score: 0.41647428347074983
+Linear SVM: Accuracy Score: 0.9013157894736842
+Linear SVM: Precession Score: 0.6337285902503295
+Linear SVM: Recall Score: 0.34722222222222227
+Linear SVM: F1 Score: 0.34267498267498264
+RBF SVM: Accuracy Score: 0.9052631578947369
+RBF SVM: Precession Score: 0.8853200883002207
+RBF SVM: Recall Score: 0.3664529914529915
+RBF SVM: F1 Score: 0.37926767927462857
+Gaussian Process: Accuracy Score: 0.8868421052631579
+Gaussian Process: Precession Score: 0.5287872479628858
+Gaussian Process: Recall Score: 0.39235642525116204
+Gaussian Process: F1 Score: 0.41647428347074983
+Decision Tree: Accuracy Score: 0.9013157894736842
+Decision Tree: Precession Score: 0.6337285902503295
+Decision Tree: Recall Score: 0.34722222222222227
+Decision Tree: F1 Score: 0.34267498267498264
+Random Forest: Accuracy Score: 0.9052631578947369
+Random Forest: Precession Score: 0.8853200883002207
+Random Forest: Recall Score: 0.3664529914529915
+Random Forest: F1 Score: 0.37926767927462857
+Neural Net: Accuracy Score: 0.8868421052631579
+Neural Net: Precession Score: 0.5287872479628858
+Neural Net: Recall Score: 0.39235642525116204
+Neural Net: F1 Score: 0.41647428347074983
+AdaBoost: Accuracy Score: 0.9013157894736842
+AdaBoost: Precession Score: 0.6337285902503295
+AdaBoost: Recall Score: 0.34722222222222227
+AdaBoost: F1 Score: 0.34267498267498264
+Naive Bayes: Accuracy Score: 0.9052631578947369
+Naive Bayes: Precession Score: 0.8853200883002207
+Naive Bayes: Recall Score: 0.3664529914529915
+Naive Bayes: F1 Score: 0.37926767927462857
+QDA: Accuracy Score: 0.8855263157894737
+QDA: Precession Score: 0.5263318112633181
+QDA: Recall Score: 0.3918690958164643
+QDA: F1 Score: 0.4157572148192263
+
+Classifier Results from 0-90,90-180,180-270,270-360,360-450,450+
+Nearest Neighbors: Accuracy Score: 0.8315789473684211
+Nearest Neighbors: Precession Score: 0.2606355873682606
+Nearest Neighbors: Recall Score: 0.21695327114046326
+Nearest Neighbors: F1 Score: 0.22751831501831501
+Linear SVM: Accuracy Score: 0.8394736842105263
+Linear SVM: Precession Score: 0.30654369784804564
+Linear SVM: Recall Score: 0.17460317460317462
+Linear SVM: F1 Score: 0.16725275679430407
+RBF SVM: Accuracy Score: 0.8421052631578947
+RBF SVM: Precession Score: 0.25949167791273053
+RBF SVM: Recall Score: 0.190637085957283
+RBF SVM: F1 Score: 0.19396955418149528
+Gaussian Process: Accuracy Score: 0.8328947368421052
+Gaussian Process: Precession Score: 0.26066455515608056
+Gaussian Process: Recall Score: 0.21721491425924924
+Gaussian Process: F1 Score: 0.22765181947338084
+Decision Tree: Accuracy Score: 0.8394736842105263
+Decision Tree: Precession Score: 0.30654369784804564
+Decision Tree: Recall Score: 0.17460317460317462
+Decision Tree: F1 Score: 0.16725275679430407
+Random Forest: Accuracy Score: 0.8421052631578947
+Random Forest: Precession Score: 0.25949167791273053
+Random Forest: Recall Score: 0.190637085957283
+Random Forest: F1 Score: 0.19396955418149528
+Neural Net: Accuracy Score: 0.8315789473684211
+Neural Net: Precession Score: 0.2606355873682606
+Neural Net: Recall Score: 0.21695327114046326
+Neural Net: F1 Score: 0.22751831501831501
+AdaBoost: Accuracy Score: 0.8394736842105263
+AdaBoost: Precession Score: 0.30654369784804564
+AdaBoost: Recall Score: 0.17460317460317462
+AdaBoost: F1 Score: 0.16725275679430407
+Naive Bayes: Accuracy Score: 0.8421052631578947
+Naive Bayes: Precession Score: 0.25949167791273053
+Naive Bayes: Recall Score: 0.190637085957283
+Naive Bayes: F1 Score: 0.19396955418149528
+QDA: Accuracy Score: 0.8315789473684211
+QDA: Precession Score: 0.2606355873682606
+QDA: Recall Score: 0.21695327114046326
+QDA: F1 Score: 0.22751831501831501
+
+Classifier Results from 0-50,50-100,150-200,200-250,250-300,300-350,350-400,400-450,450+
+Nearest Neighbors: Accuracy Score: 0.7078947368421052
+Nearest Neighbors: Precession Score: 0.15975427350427351
+Nearest Neighbors: Recall Score: 0.1447652539757803
+Nearest Neighbors: F1 Score: 0.14795698039760044
+Linear SVM: Accuracy Score: 0.7526315789473684
+Linear SVM: Precession Score: 0.13932980599647266
+Linear SVM: Recall Score: 0.1216931216931217
+Linear SVM: F1 Score: 0.11330316742081448
+RBF SVM: Accuracy Score: 0.756578947368421
+RBF SVM: Precession Score: 0.1500972893183038
+RBF SVM: Recall Score: 0.1376357560568087
+RBF SVM: F1 Score: 0.13452854218551002
+Gaussian Process: Accuracy Score: 0.7026315789473684
+Gaussian Process: Precession Score: 0.1576302118279428
+Gaussian Process: Recall Score: 0.14529209660788606
+Gaussian Process: F1 Score: 0.14822974283799895
+Decision Tree: Accuracy Score: 0.7526315789473684
+Decision Tree: Precession Score: 0.13932980599647266
+Decision Tree: Recall Score: 0.1216931216931217
+Decision Tree: F1 Score: 0.11330316742081448
+Random Forest: Accuracy Score: 0.756578947368421
+Random Forest: Precession Score: 0.1500972893183038
+Random Forest: Recall Score: 0.1376357560568087
+Random Forest: F1 Score: 0.13452854218551002
+Neural Net: Accuracy Score: 0.7078947368421052
+Neural Net: Precession Score: 0.15975427350427351
+Neural Net: Recall Score: 0.1447652539757803
+Neural Net: F1 Score: 0.14795698039760044
+AdaBoost: Accuracy Score: 0.7526315789473684
+AdaBoost: Precession Score: 0.13932980599647266
+AdaBoost: Recall Score: 0.1216931216931217
+AdaBoost: F1 Score: 0.11330316742081448
+Naive Bayes: Accuracy Score: 0.756578947368421
+Naive Bayes: Precession Score: 0.1500972893183038
+Naive Bayes: Recall Score: 0.1376357560568087
+Naive Bayes: F1 Score: 0.13452854218551002
+QDA: Accuracy Score: 0.7078947368421052
+QDA: Precession Score: 0.15975427350427351
+QDA: Recall Score: 0.1447652539757803
+QDA: F1 Score: 0.14795698039760044
+
+
+Classification without PCA
+Classifier Results from 1-150 - lower impact paper ,150-400 ,400+
+Nearest Neighbors: Accuracy Score: 0.8842105263157894
+Nearest Neighbors: Precession Score: 0.5258446947243628
+Nearest Neighbors: Recall Score: 0.409150547308442
+Nearest Neighbors: F1 Score: 0.43509644464351654
+Linear SVM: Accuracy Score: 0.9039473684210526
+Linear SVM: Precession Score: 0.9678555702333774
+Linear SVM: Recall Score: 0.3675213675213675
+Linear SVM: F1 Score: 0.38030757950101174
+RBF SVM: Accuracy Score: 0.8960526315789473
+RBF SVM: Precession Score: 0.3843514829570607
+RBF SVM: Recall Score: 0.33779427200479833
+RBF SVM: F1 Score: 0.32737681015342807
+Gaussian Process: Accuracy Score: 0.8842105263157894
+Gaussian Process: Precession Score: 0.5258446947243628
+Gaussian Process: Recall Score: 0.409150547308442
+Gaussian Process: F1 Score: 0.43509644464351654
+Decision Tree: Accuracy Score: 0.9039473684210526
+Decision Tree: Precession Score: 0.9678555702333774
+Decision Tree: Recall Score: 0.3675213675213675
+Decision Tree: F1 Score: 0.38030757950101174
+Random Forest: Accuracy Score: 0.8960526315789473
+Random Forest: Precession Score: 0.3843514829570607
+Random Forest: Recall Score: 0.33779427200479833
+Random Forest: F1 Score: 0.32737681015342807
+Neural Net: Accuracy Score: 0.8842105263157894
+Neural Net: Precession Score: 0.5258446947243628
+Neural Net: Recall Score: 0.409150547308442
+Neural Net: F1 Score: 0.43509644464351654
+AdaBoost: Accuracy Score: 0.9039473684210526
+AdaBoost: Precession Score: 0.9678555702333774
+AdaBoost: Recall Score: 0.3675213675213675
+AdaBoost: F1 Score: 0.38030757950101174
+Naive Bayes: Accuracy Score: 0.8960526315789473
+Naive Bayes: Precession Score: 0.3843514829570607
+Naive Bayes: Recall Score: 0.33779427200479833
+Naive Bayes: F1 Score: 0.32737681015342807
+QDA: Accuracy Score: 0.8842105263157894
+QDA: Precession Score: 0.5258446947243628
+QDA: Recall Score: 0.409150547308442
+QDA: F1 Score: 0.43509644464351654
+
+Classification without PCA
+Grouped by 1-10,11-20,21-30,31-40...100-150,151-200...301-500,500+
+Nearest Neighbors: Accuracy Score: 0.40657894736842104
+Nearest Neighbors: Precession Score: 0.10287312689250569
+Nearest Neighbors: Recall Score: 0.11014986886808915
+Nearest Neighbors: F1 Score: 0.1038941921357106
+Linear SVM: Accuracy Score: 0.4723684210526316
+Linear SVM: Precession Score: 0.058661352194273236
+Linear SVM: Recall Score: 0.0899165061014772
+Linear SVM: F1 Score: 0.06308725688044543
+RBF SVM: Accuracy Score: 0.42236842105263156
+RBF SVM: Precession Score: 0.0822816700780063
+RBF SVM: Recall Score: 0.07685598450332475
+RBF SVM: F1 Score: 0.06903250021279254
+Gaussian Process: Accuracy Score: 0.40657894736842104
+Gaussian Process: Precession Score: 0.10287312689250569
+Gaussian Process: Recall Score: 0.11014986886808915
+Gaussian Process: F1 Score: 0.1038941921357106
+Decision Tree: Accuracy Score: 0.4723684210526316
+Decision Tree: Precession Score: 0.058661352194273236
+Decision Tree: Recall Score: 0.0899165061014772
+Decision Tree: F1 Score: 0.06308725688044543
+Random Forest: Accuracy Score: 0.42236842105263156
+Random Forest: Precession Score: 0.0822816700780063
+Random Forest: Recall Score: 0.07685598450332475
+Random Forest: F1 Score: 0.06903250021279254
+Neural Net: Accuracy Score: 0.40657894736842104
+Neural Net: Precession Score: 0.10287312689250569
+Neural Net: Recall Score: 0.11014986886808915
+Neural Net: F1 Score: 0.1038941921357106
+AdaBoost: Accuracy Score: 0.4649122807017544
+AdaBoost: Precession Score: 0.14296231650554958
+AdaBoost: Recall Score: 0.09257507878431792
+AdaBoost: F1 Score: 0.07279454553276692
+Naive Bayes: Accuracy Score: 0.4723684210526316
+Naive Bayes: Precession Score: 0.058661352194273236
+Naive Bayes: Recall Score: 0.0899165061014772
+Naive Bayes: F1 Score: 0.06308725688044543
+QDA: Accuracy Score: 0.3526315789473684
+QDA: Precession Score: 0.10553321905565849
+QDA: Recall Score: 0.12855892577359967
+QDA: F1 Score: 0.1054049656130646
+
+
+Binary classification without pca 1-70, 70+
+Nearest Neighbors: Accuracy Score: 0.8421052631578947
+Nearest Neighbors: Precession Score: 0.7505247900839664
+Nearest Neighbors: Recall Score: 0.6981225296442688
+Nearest Neighbors: F1 Score: 0.7181566455696202
+Linear SVM: Accuracy Score: 0.8491228070175438
+Linear SVM: Precession Score: 0.8264150943396227
+Linear SVM: Recall Score: 0.6367588932806324
+Linear SVM: F1 Score: 0.66989898989899
+RBF SVM: Accuracy Score: 0.8087719298245614
+RBF SVM: Precession Score: 0.6747747747747748
+RBF SVM: Recall Score: 0.5287549407114625
+RBF SVM: F1 Score: 0.5103054187192118
+Gaussian Process: Accuracy Score: 0.8421052631578947
+Gaussian Process: Precession Score: 0.7505247900839664
+Gaussian Process: Recall Score: 0.6981225296442688
+Gaussian Process: F1 Score: 0.7181566455696202
+Decision Tree: Accuracy Score: 0.8491228070175438
+Decision Tree: Precession Score: 0.8264150943396227
+Decision Tree: Recall Score: 0.6367588932806324
+Decision Tree: F1 Score: 0.66989898989899
+Random Forest: Accuracy Score: 0.8087719298245614
+Random Forest: Precession Score: 0.6747747747747748
+Random Forest: Recall Score: 0.5287549407114625
+Random Forest: F1 Score: 0.5103054187192118
+Neural Net: Accuracy Score: 0.8421052631578947
+Neural Net: Precession Score: 0.7505247900839664
+Neural Net: Recall Score: 0.6981225296442688
+Neural Net: F1 Score: 0.7181566455696202
+AdaBoost: Accuracy Score: 0.8491228070175438
+AdaBoost: Precession Score: 0.8264150943396227
+AdaBoost: Recall Score: 0.6367588932806324
+AdaBoost: F1 Score: 0.66989898989899
+Naive Bayes: Accuracy Score: 0.8087719298245614
+Naive Bayes: Precession Score: 0.6747747747747748
+Naive Bayes: Recall Score: 0.5287549407114625
+Naive Bayes: F1 Score: 0.5103054187192118
+QDA: Accuracy Score: 0.8421052631578947
+QDA: Precession Score: 0.7505247900839664
+QDA: Recall Score: 0.6981225296442688
+QDA: F1 Score: 0.7181566455696202
